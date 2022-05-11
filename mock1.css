@@ -1,0 +1,17 @@
+a {
+    display: inline-block;
+    background-color: lightskyblue;
+    color: white;;
+    width: 5em;
+    height: 1.5em;
+    text-decoration: none;
+    border-radius: 7px;
+    padding:10px;
+    transition: background-color .5s;
+    margin: 30px;
+    text-align: center;
+}
+
+a:hover {
+    background-color: rgb(105, 157, 189);
+}
